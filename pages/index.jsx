@@ -8,6 +8,6 @@ export default function Home() {
         <InstructionsComponent></InstructionsComponent>
       </main>
     </div>
-    <script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="208422341"></script>
+    <script src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="208422341"></script>
   );
 }

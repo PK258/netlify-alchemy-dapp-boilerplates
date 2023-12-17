@@ -10,5 +10,3 @@ export default function Home() {
     </div>
   );
 }
-
-<script async id="slcLiveChat" src="https://widget.sonetel.com/SonetelWidget.min.js" data-account-id="208422341"></script>
